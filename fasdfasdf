@@ -1,0 +1,23 @@
+* [33mbbe2802[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m update file01-7
+* [33mb9a680e[m[33m ([m[1;31morigin/master[m[33m)[m delete file07
+* [33m38669fa[m update file07.txt
+* [33m2105002[m add file07.txt
+* [33ma33b6d6[m add file06.txt
+* [33m94a33c5[m add file05.txt
+*   [33m0f6e762[m Merge branch 'dev'
+[32m|[m[33m\[m  
+[32m|[m * [33m5d22c7d[m update file01
+[32m|[m * [33m87c12d5[m delete file01
+[32m|[m * [33m2a958e3[m update file01 count-2
+* [33m|[m [33mf3ef2a9[m update file01 count-3
+[33m|[m[33m/[m  
+*   [33m797b2c2[m Merge branch 'dev01'
+[34m|[m[35m\[m  
+[34m|[m * [33me6f1079[m add file02.txt
+* [35m|[m [33mb1aebb8[m add file04.txt
+[35m|[m[35m/[m  
+* [33mfc3e0bb[m update file03.txt
+* [33m79f1ac4[m commit 001
+* [33m4b9ffe4[m update file01
+* [33m2e38da0[m add file01
+* [33ma85f7f4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Initial commit
